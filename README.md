@@ -38,7 +38,7 @@ The task is designed to be used with EEG: the EEG component can be enabled in th
 case the task runs as a simple behavioural paradigm. 
 
 **How to start the task**
-Download the entire folder "Social-Nonsocial-Learning-Zoo-Task". To run the task, open the "SPARK_Zoo_Task.py" in PsychoPy (or another Python shell). 
+Download the entire folder "Children-Social-Nonsocial-Reversal-Learning-Task". To run the task, open the "SPARK_Zoo_Task.py" in PsychoPy (or another Python shell). 
 When you start the task, you will be prompted to enter a participant number, as well as select the session settings.
 Indicate if the session is a practice (in which case, a shorter sequence will be run), and whether there is an EEG system connected.
 When prompted, press SPACE to begin the task. You can pause the task at any moment by pressing **SPACE**. 
